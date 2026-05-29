@@ -1,0 +1,6 @@
+{
+  "name": "Image Duplicate Finder",
+  "description": "Công cụ phát hiện và lọc hình ảnh trùng lặp hoặc gần giống nhau sử dụng perceptual hashing (pHash) tiên tiến, hỗ trợ danh sách link và file tải lên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
